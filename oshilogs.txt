@@ -1,0 +1,151 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VSaXNrYQ/c21hcG9ja2VSaXNrYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Riska =====
+[1]Riska       |09:08:52 | 11-10-2026| login OK @riskamhrani | score=970 rank=6003
+[1]Riska       |09:08:52 | 11-10-2026| serverTime=2026-10-11T09:08:52.000Z local=2026-10-11T09:08:52.851Z
+--> [1]Riska menjalankan: Claim Daily
+[1]Riska       |09:08:53 | 11-10-2026| daily: sudah klaim (already=true) score=970
+--> [1]Riska menjalankan: Auto All Tasks (2 pending)
+[1]Riska       |09:08:55 | 11-10-2026| [1/2] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/riskamhrani/status/2109209282936307216
+[1]Riska       |09:08:55 | 11-10-2026| delay 10s...
+[1]Riska       |09:09:09 | 11-10-2026| [2/2] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/riskamhrani/status/2109209114965439295
+[1]Riska       |09:09:09 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riska       |09:09:11 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/riskamhrani/status/2109209154813862018
+--> [1]Riska menjalankan: Watch Anime
+[1]Riska       |09:09:12 | 11-10-2026| watch: 3 video belum completed: oshi-theme-mv,oshi-theme-lyric-video,oshi-first-journey
+[1]Riska       |09:09:12 | 11-10-2026| watch [1/3] farming oshi-theme-mv...
+[1]Riska       |09:09:13 | 11-10-2026| watch oshi-theme-mv: mulai dari 0 (record 25.1s diabaikan)
+[1]Riska       |09:09:18 | 11-10-2026| watch oshi-theme-mv: 23% (25.13/106.00s)
+[1]Riska       |09:09:25 | 11-10-2026| watch oshi-theme-mv: 23% (25.13/106.00s)
+[1]Riska       |09:09:32 | 11-10-2026| watch oshi-theme-mv: 23% (25.13/106.00s)
+[1]Riska       |09:09:41 | 11-10-2026| watch oshi-theme-mv: 23% (25.13/106.00s)
+[1]Riska       |09:09:48 | 11-10-2026| watch oshi-theme-mv: 23% (25.13/106.00s)
+[1]Riska       |09:09:54 | 11-10-2026| watch oshi-theme-mv: 29% (30.75/106.00s)
+[1]Riska       |09:10:00 | 11-10-2026| watch oshi-theme-mv: 34% (36.55/106.00s)
+[1]Riska       |09:10:07 | 11-10-2026| watch oshi-theme-mv: 39% (42.23/106.00s)
+[1]Riska       |09:10:13 | 11-10-2026| watch oshi-theme-mv: 45% (47.80/106.00s)
+[1]Riska       |09:10:20 | 11-10-2026| watch oshi-theme-mv: 50% (53.39/106.00s)
+[1]Riska       |09:10:26 | 11-10-2026| watch oshi-theme-mv: 56% (59.66/106.00s)
+[1]Riska       |09:10:32 | 11-10-2026| watch oshi-theme-mv: 61% (65.43/106.00s)
+[1]Riska       |09:10:39 | 11-10-2026| watch oshi-theme-mv: 66% (71.02/106.00s)
+[1]Riska       |09:10:46 | 11-10-2026| watch oshi-theme-mv: 72% (77.19/106.00s)
+[1]Riska       |09:10:52 | 11-10-2026| watch oshi-theme-mv: 78% (83.36/106.00s)
+[1]Riska       |09:11:01 | 11-10-2026| watch oshi-theme-mv: 83% (88.92/106.00s)
+[1]Riska       |09:11:08 | 11-10-2026| watch oshi-theme-mv: 90% (96.13/106.00s)
+[1]Riska       |09:11:08 | 11-10-2026| watch oshi-theme-mv: COMPLETED (96.13/106.00s)
+[1]Riska       |09:11:13 | 11-10-2026| watch [2/3] farming oshi-theme-lyric-video...
+[1]Riska       |09:11:14 | 11-10-2026| watch oshi-theme-lyric-video: mulai dari 0 (record 167.0s diabaikan)
+[1]Riska       |09:11:16 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.04/269.00s)
+[1]Riska       |09:11:24 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.49/269.00s)
+[1]Riska       |09:11:31 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.49/269.00s)
+[1]Riska       |09:11:37 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.49/269.00s)
+[1]Riska       |09:11:44 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.75/269.00s)
+[1]Riska       |09:11:51 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.75/269.00s)
+[1]Riska       |09:11:57 | 11-10-2026| watch oshi-theme-lyric-video: 62% (167.75/269.00s)
+[1]Riska       |09:12:04 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:10 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:17 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:23 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:30 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:36 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:45 | 11-10-2026| watch oshi-theme-lyric-video: 62% (168.69/269.00s)
+[1]Riska       |09:12:51 | 11-10-2026| watch oshi-theme-lyric-video: 63% (170.89/269.00s)
+[1]Riska       |09:13:00 | 11-10-2026| watch oshi-theme-lyric-video: 63% (170.89/269.00s)
+[1]Riska       |09:13:07 | 11-10-2026| watch oshi-theme-lyric-video: 63% (170.89/269.00s)
+[1]Riska       |09:13:13 | 11-10-2026| watch oshi-theme-lyric-video: 63% (170.89/269.00s)
+[1]Riska       |09:13:19 | 11-10-2026| watch oshi-theme-lyric-video: 63% (171.30/269.00s)
+[1]Riska       |09:13:25 | 11-10-2026| watch oshi-theme-lyric-video: 64% (172.77/269.00s)
+[1]Riska       |09:13:32 | 11-10-2026| watch oshi-theme-lyric-video: 64% (172.77/269.00s)
+[1]Riska       |09:13:39 | 11-10-2026| watch oshi-theme-lyric-video: 64% (172.77/269.00s)
+[1]Riska       |09:13:46 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:13:56 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:14:05 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:14:13 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:14:19 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:14:26 | 11-10-2026| watch oshi-theme-lyric-video: 64% (173.37/269.00s)
+[1]Riska       |09:14:32 | 11-10-2026| watch oshi-theme-lyric-video: 65% (177.00/269.00s)
+[1]Riska       |09:14:38 | 11-10-2026| watch oshi-theme-lyric-video: 67% (182.63/269.00s)
+[1]Riska       |09:14:44 | 11-10-2026| watch oshi-theme-lyric-video: 69% (188.23/269.00s)
+[1]Riska       |09:14:52 | 11-10-2026| watch oshi-theme-lyric-video: 72% (193.82/269.00s)
+[1]Riska       |09:14:58 | 11-10-2026| watch oshi-theme-lyric-video: 74% (200.06/269.00s)
+[1]Riska       |09:15:04 | 11-10-2026| watch oshi-theme-lyric-video: 76% (205.64/269.00s)
+[1]Riska       |09:15:11 | 11-10-2026| watch oshi-theme-lyric-video: 78% (211.26/269.00s)
+[1]Riska       |09:15:19 | 11-10-2026| watch oshi-theme-lyric-video: 80% (217.00/269.00s)
+[1]Riska       |09:15:28 | 11-10-2026| watch oshi-theme-lyric-video: 83% (224.04/269.00s)
+[1]Riska       |09:15:35 | 11-10-2026| watch oshi-theme-lyric-video: 86% (231.70/269.00s)
+[1]Riska       |09:15:42 | 11-10-2026| watch oshi-theme-lyric-video: 88% (238.20/269.00s)
+[1]Riska       |09:15:49 | 11-10-2026| watch oshi-theme-lyric-video: 90% (244.61/269.00s)
+[1]Riska       |09:15:49 | 11-10-2026| watch oshi-theme-lyric-video: COMPLETED (244.61/269.00s)
+[1]Riska       |09:15:54 | 11-10-2026| watch [3/3] farming oshi-first-journey...
+[1]Riska       |09:15:57 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Riska       |09:16:06 | 11-10-2026| watch oshi-first-journey: 6% (5.36/87.00s)
+[1]Riska       |09:16:12 | 11-10-2026| watch oshi-first-journey: 14% (12.80/87.00s)
+[1]Riska       |09:16:19 | 11-10-2026| watch oshi-first-journey: 21% (18.35/87.00s)
+[1]Riska       |09:16:27 | 11-10-2026| watch oshi-first-journey: 28% (24.85/87.00s)
+[1]Riska       |09:16:34 | 11-10-2026| watch oshi-first-journey: 35% (31.14/87.00s)
+[1]Riska       |09:16:40 | 11-10-2026| watch oshi-first-journey: 43% (37.43/87.00s)
+[1]Riska       |09:16:48 | 11-10-2026| watch oshi-first-journey: 49% (43.45/87.00s)
+[1]Riska       |09:16:54 | 11-10-2026| watch oshi-first-journey: 57% (49.68/87.00s)
+[1]Riska       |09:17:02 | 11-10-2026| watch oshi-first-journey: 63% (55.27/87.00s)
+[1]Riska       |09:17:08 | 11-10-2026| watch oshi-first-journey: 70% (61.48/87.00s)
+[1]Riska       |09:17:18 | 11-10-2026| watch oshi-first-journey: 77% (67.05/87.00s)
+[1]Riska       |09:17:25 | 11-10-2026| watch oshi-first-journey: 85% (74.73/87.00s)
+[1]Riska       |09:17:31 | 11-10-2026| watch oshi-first-journey: 92% (80.91/87.00s)
+[1]Riska       |09:17:31 | 11-10-2026| watch oshi-first-journey: COMPLETED (80.91/87.00s)
+--> [1]Riska menjalankan: Read Article
+[1]Riska       |09:17:33 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Riska       |09:17:34 | 11-10-2026| mint eligibility: {"userId":"2011485714974945280","youtube":{"url":"https://www.youtube.com/@riskamhrani","status":"submitted","revision":"ddcd83c0-404a-4f06-8604-21a40a197984","submittedAt":1791686138,"reviewedAt":179
+[1]Riska       |09:17:34 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Riska menjalankan: Quiz Anime
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Riska       |09:17:34 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Riska menjalankan: Music Missions (realtime, bisa lama!)
+[1]Riska       |09:17:37 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Riska       |09:17:38 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |09:17:38 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |09:17:38 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Riska menjalankan: Claim Missions
+[1]Riska       |09:17:38 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |09:17:38 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |09:17:38 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Riska menjalankan: Check Eligibility
+
+--- eligibility [1]Riska ---
+  @riskamhrani | score=970 rank=6003
+  tasks    [###################-] 73/75
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=true mintOpen=false discord=true
+
+--> [1]Riska menjalankan: Read Manga
+[1]Riska       |09:17:44 | 11-10-2026| manga: 0/13 chapter belum completed
+--> [1]Riska menjalankan: Get Gift
+[1]Riska       |09:17:44 | 11-10-2026| gift: 0/3 belum diterima
+--> [1]Riska menjalankan: Setup Profile
+[1]Riska       |09:17:45 | 11-10-2026| profile: bio="https://x.com/riskamhrani" fav=amato rewardAt=1791695599
+[1]Riska       |09:17:45 | 11-10-2026| profile: bonus sudah diklaim, skip
+--> [1]Riska menjalankan: Bind Wallet
+[1]Riska       |09:17:46 | 11-10-2026| wallet: sudah terikat 3GVmaukhDQ... (solana)
+
+== RINGKASAN ==
+- Riska: daily=already | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 3/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
