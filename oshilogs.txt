@@ -12,47 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Riska =====
-[1]Riska       |09:31:09 | 26-10-2026| login OK @riskamhrani | score=2030 rank=3935
-[1]Riska       |09:31:09 | 26-10-2026| serverTime=2026-10-26T09:31:09.000Z local=2026-10-26T09:31:09.110Z
+[1]Riska       |09:28:12 | 27-10-2026| login OK @riskamhrani | score=2110 rank=3765
+[1]Riska       |09:28:12 | 27-10-2026| serverTime=2026-10-27T09:28:12.000Z local=2026-10-27T09:28:12.128Z
 --> [1]Riska menjalankan: Claim Daily
-[1]Riska       |09:31:10 | 26-10-2026| daily: OK +10 poin score=2040
---> [1]Riska menjalankan: Auto All Tasks (7 pending)
-[1]Riska       |09:31:11 | 26-10-2026| [1/7] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650633513459274
-[1]Riska       |09:31:11 | 26-10-2026| delay 10s...
-[1]Riska       |09:31:23 | 26-10-2026| [2/7] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650560413090993
-[1]Riska       |09:31:23 | 26-10-2026| delay 10s...
-[1]Riska       |09:31:35 | 26-10-2026| [3/7] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650614140838314
-[1]Riska       |09:31:35 | 26-10-2026| delay 10s...
-[1]Riska       |09:31:47 | 26-10-2026| [4/7] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650868593465267
-[1]Riska       |09:31:47 | 26-10-2026| delay 10s...
-[1]Riska       |09:31:58 | 26-10-2026| [5/7] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650679308002938
-[1]Riska       |09:31:58 | 26-10-2026| delay 10s...
-[1]Riska       |09:32:11 | 26-10-2026| [6/7] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114650946589376803
-[1]Riska       |09:32:11 | 26-10-2026| delay 10s...
-[1]Riska       |09:32:22 | 26-10-2026| [7/7] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/riskamhrani/status/2114651081866005701
-[1]Riska       |09:32:22 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Riska       |09:32:24 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/riskamhrani/status/2114650950030811915
+[1]Riska       |09:28:13 | 27-10-2026| daily: OK +10 poin score=2120
+--> [1]Riska menjalankan: Auto All Tasks (8 pending)
+[1]Riska       |09:28:14 | 27-10-2026| [1/8] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012056742497924
+[1]Riska       |09:28:14 | 27-10-2026| delay 10s...
+[1]Riska       |09:28:27 | 27-10-2026| [2/8] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012223655546494
+[1]Riska       |09:28:27 | 27-10-2026| delay 10s...
+[1]Riska       |09:28:39 | 27-10-2026| [3/8] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012466101627836
+[1]Riska       |09:28:39 | 27-10-2026| delay 10s...
+[1]Riska       |09:28:51 | 27-10-2026| [4/8] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012561826616574
+[1]Riska       |09:28:51 | 27-10-2026| delay 10s...
+[1]Riska       |09:29:05 | 27-10-2026| [5/8] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796
+[1]Riska       |09:29:05 | 27-10-2026| delay 10s...
+[1]Riska       |09:29:17 | 27-10-2026| [6/8] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012377912871416
+[1]Riska       |09:29:17 | 27-10-2026| delay 10s...
+[1]Riska       |09:29:29 | 27-10-2026| [7/8] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012700468803748
+[1]Riska       |09:29:29 | 27-10-2026| delay 10s...
+[1]Riska       |09:29:41 | 27-10-2026| [8/8] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/riskamhrani/status/2115012624174325912
+[1]Riska       |09:29:41 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riska       |09:29:42 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/riskamhrani/status/2115012690507448821
 --> [1]Riska menjalankan: Watch Anime
-[1]Riska       |09:32:25 | 26-10-2026| watch: semua video sudah completed
+[1]Riska       |09:29:43 | 27-10-2026| watch: semua video sudah completed
 --> [1]Riska menjalankan: Read Article
-[1]Riska       |09:32:26 | 26-10-2026| news: 30/30 artikel selesai dibaca
-[1]Riska       |09:32:27 | 26-10-2026| mint eligibility: {"userId":"2011485714974945280","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@riskamhrani","status":"submitted","revision":"ddcd83c0-404a-4f06-8604-21a40a1979
-[1]Riska       |09:32:27 | 26-10-2026| news: semua artikel sudah dibaca
+[1]Riska       |09:29:45 | 27-10-2026| news: 30/30 artikel selesai dibaca
+[1]Riska       |09:29:45 | 27-10-2026| mint eligibility: {"userId":"2011485714974945280","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@riskamhrani","status":"submitted","revision":"ddcd83c0-404a-4f06-8604-21a40a1979
+[1]Riska       |09:29:45 | 27-10-2026| news: semua artikel sudah dibaca
 --> [1]Riska menjalankan: Quiz Anime
 --> [1]Riska menjalankan: Music Missions (realtime, bisa lama!)
-[1]Riska       |09:32:29 | 26-10-2026| music: kedua misi sudah tercapai, stop
-[1]Riska       |09:32:29 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Riska       |09:32:29 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riska       |09:32:29 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riska       |09:29:48 | 27-10-2026| music: kedua misi sudah tercapai, stop
+[1]Riska       |09:29:48 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |09:29:48 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |09:29:48 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riska menjalankan: Claim Missions
-[1]Riska       |09:32:30 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Riska       |09:32:30 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Riska       |09:32:30 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Riska       |09:29:49 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |09:29:49 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |09:29:49 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riska menjalankan: Check Eligibility
 
 --- eligibility [1]Riska ---
-  @riskamhrani | score=2030 rank=3935
-  tasks    [###-----------------] 1/8
+  @riskamhrani | score=2110 rank=3765
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -63,14 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Riska menjalankan: Read Manga
-[1]Riska       |09:32:33 | 26-10-2026| manga: 0/13 chapter belum completed
+[1]Riska       |09:29:53 | 27-10-2026| manga: 0/13 chapter belum completed
 --> [1]Riska menjalankan: Get Gift
-[1]Riska       |09:32:34 | 26-10-2026| gift: 0/4 belum diterima
+[1]Riska       |09:29:53 | 27-10-2026| gift: 0/4 belum diterima
 --> [1]Riska menjalankan: Setup Profile
-[1]Riska       |09:32:34 | 26-10-2026| profile: bio="https://x.com/riskamhrani" fav=amato rewardAt=1791695599
-[1]Riska       |09:32:34 | 26-10-2026| profile: bonus sudah diklaim, skip
+[1]Riska       |09:29:54 | 27-10-2026| profile: bio="https://x.com/riskamhrani" fav=amato rewardAt=1791695599
+[1]Riska       |09:29:54 | 27-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Riska menjalankan: Bind Wallet
-[1]Riska       |09:32:34 | 26-10-2026| wallet: sudah terikat 3GVmaukhDQ... (solana)
+[1]Riska       |09:29:54 | 27-10-2026| wallet: sudah terikat 3GVmaukhDQ... (solana)
 
 == RINGKASAN ==
-- Riska: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Riska: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
