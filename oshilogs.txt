@@ -12,39 +12,37 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Riska =====
-[1]Riska       |07:41:20 | 15-11-2026| login OK @riskamhrani | score=3110 rank=2515
-[1]Riska       |07:41:20 | 15-11-2026| serverTime=2026-11-15T07:41:19.000Z local=2026-11-15T07:41:20.042Z
+[1]Riska       |07:47:06 | 16-11-2026| login OK @riskamhrani | score=3150 rank=2478
+[1]Riska       |07:47:06 | 16-11-2026| serverTime=2026-11-16T07:47:06.000Z local=2026-11-16T07:47:06.418Z
 --> [1]Riska menjalankan: Claim Daily
-[1]Riska       |07:41:22 | 15-11-2026| daily: OK +10 poin score=3120
---> [1]Riska menjalankan: Auto All Tasks (3 pending)
-[1]Riska       |07:41:24 | 15-11-2026| [1/3] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/riskamhrani/status/2121870608431979288
-[1]Riska       |07:41:24 | 15-11-2026| delay 10s...
-[1]Riska       |07:41:36 | 15-11-2026| [2/3] 64b7bdf9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/riskamhrani/status/2121870731467747343
-[1]Riska       |07:41:36 | 15-11-2026| delay 10s...
-[1]Riska       |07:41:48 | 15-11-2026| [3/3] a251b9cc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212159596795079 | proof=https://x.com/riskamhrani/status/2121870933707870461
-[1]Riska       |07:41:48 | 15-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Riska       |07:41:50 | 15-11-2026| [1/1] f5111b97 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f5111b97-5047-4d40-b326-6d068b77a439","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121595967950791 | proof=https://x.com/riskamhrani/status/2121870955489586963
+[1]Riska       |07:47:07 | 16-11-2026| daily: OK +10 poin score=3160
+--> [1]Riska menjalankan: Auto All Tasks (2 pending)
+[1]Riska       |07:47:09 | 16-11-2026| [1/2] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/riskamhrani/status/2122234717379082728
+[1]Riska       |07:47:09 | 16-11-2026| delay 10s...
+[1]Riska       |07:47:21 | 16-11-2026| [2/2] df76b569 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212195482386007 | proof=https://x.com/riskamhrani/status/2122234448813886124
+[1]Riska       |07:47:21 | 16-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Riska       |07:47:23 | 16-11-2026| [1/1] 1d2bd7c9 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1d2bd7c9-69be-46a0-beab-6e12ed1d7f6f","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2121954823860076 | proof=https://x.com/riskamhrani/status/2122234461398398693
 --> [1]Riska menjalankan: Watch Anime
-[1]Riska       |07:41:51 | 15-11-2026| watch: semua video sudah completed
+[1]Riska       |07:47:24 | 16-11-2026| watch: semua video sudah completed
 --> [1]Riska menjalankan: Read Article
-[1]Riska       |07:41:52 | 15-11-2026| news: 34/34 artikel selesai dibaca
-[1]Riska       |07:41:53 | 15-11-2026| mint eligibility: {"userId":"2011485714974945280","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@riskamhrani","status":"submitted","revision":"ddcd83c0-404a-4f06-8604-21a40a1979
-[1]Riska       |07:41:53 | 15-11-2026| news: semua artikel sudah dibaca
+[1]Riska       |07:47:25 | 16-11-2026| news: 34/34 artikel selesai dibaca
+[1]Riska       |07:47:26 | 16-11-2026| mint eligibility: {"userId":"2011485714974945280","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@riskamhrani","status":"submitted","revision":"ddcd83c0-404a-4f06-8604-21a40a1979
+[1]Riska       |07:47:26 | 16-11-2026| news: semua artikel sudah dibaca
 --> [1]Riska menjalankan: Quiz Anime
 --> [1]Riska menjalankan: Music Missions (realtime, bisa lama!)
-[1]Riska       |07:41:55 | 15-11-2026| music: kedua misi sudah tercapai, stop
-[1]Riska       |07:41:56 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Riska       |07:41:56 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Riska       |07:41:56 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Riska       |07:47:28 | 16-11-2026| music: kedua misi sudah tercapai, stop
+[1]Riska       |07:47:29 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |07:47:29 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |07:47:29 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riska menjalankan: Claim Missions
-[1]Riska       |07:41:56 | 15-11-2026| mission music-listens-10: sudah diklaim
-[1]Riska       |07:41:56 | 15-11-2026| mission music-minutes-30: sudah diklaim
-[1]Riska       |07:41:56 | 15-11-2026| mission anime-completed-3: sudah diklaim
+[1]Riska       |07:47:30 | 16-11-2026| mission music-listens-10: sudah diklaim
+[1]Riska       |07:47:30 | 16-11-2026| mission music-minutes-30: sudah diklaim
+[1]Riska       |07:47:30 | 16-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Riska menjalankan: Check Eligibility
 
 --- eligibility [1]Riska ---
-  @riskamhrani | score=3110 rank=2515
-  tasks    [########------------] 2/5
+  @riskamhrani | score=3150 rank=2478
+  tasks    [############--------] 3/5
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -55,17 +53,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Riska menjalankan: Read Manga
-[1]Riska       |07:42:00 | 15-11-2026| manga: 0/13 chapter belum completed
+[1]Riska       |07:47:34 | 16-11-2026| manga: 0/13 chapter belum completed
 --> [1]Riska menjalankan: Get Gift
-[1]Riska       |07:42:02 | 15-11-2026| gift: 3/12 belum diterima
-[1]Riska       |07:42:03 | 15-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Riska       |07:42:06 | 15-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Riska       |07:42:09 | 15-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Riska       |07:47:35 | 16-11-2026| gift: 3/12 belum diterima
+[1]Riska       |07:47:36 | 16-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Riska       |07:47:39 | 16-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Riska       |07:47:42 | 16-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Riska menjalankan: Setup Profile
-[1]Riska       |07:42:11 | 15-11-2026| profile: bio="https://x.com/riskamhrani" fav=amato rewardAt=1791695599
-[1]Riska       |07:42:11 | 15-11-2026| profile: bonus sudah diklaim, skip
+[1]Riska       |07:47:45 | 16-11-2026| profile: bio="https://x.com/riskamhrani" fav=amato rewardAt=1791695599
+[1]Riska       |07:47:45 | 16-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Riska menjalankan: Bind Wallet
-[1]Riska       |07:42:12 | 15-11-2026| wallet: sudah terikat 3GVmaukhDQ... (solana)
+[1]Riska       |07:47:45 | 16-11-2026| wallet: sudah terikat 3GVmaukhDQ... (solana)
 
 == RINGKASAN ==
-- Riska: daily=claimed | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Riska: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
